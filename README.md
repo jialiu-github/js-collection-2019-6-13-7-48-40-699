@@ -2,6 +2,7 @@
 
 ## Get Started
 
+run npm install first
 1. run all tests
 ```
 npm test
